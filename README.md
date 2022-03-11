@@ -1,1 +1,2 @@
-[Markdown & Git](https://Mikkumo.github.io/rsschool-cv/cv)
+
+1. [Markdown & Git](https://Mikkumo.github.io/rsschool-cv/cv)
