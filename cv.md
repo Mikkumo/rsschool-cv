@@ -44,9 +44,14 @@ function bingo(ticket, win){
 }
 ```
 
-# Education
+# Education and courses
 
-
+1. Bachelor, Fundamental Informatics and Information Technology in UdGU
+2. [Codewars](https://www.codewars.com/users/Mikkumo)
+3. RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+4. JavaScript on [learnjavascript.ru](https://learn.javascript.ru/) 
+5. JS, CSS, HTML, Git video courses on YouTube channel [Glo Academy](https://www.youtube.com/c/GloAcademyChannel/featured)
+6. HTML and CSS tutorials on the [w3schools](https://www.w3schools.com/) 
 
 # Languages
 
