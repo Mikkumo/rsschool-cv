@@ -9,7 +9,7 @@
 
 # About me
 
-I'm 23 years old, I work as equipment repair master. My work is interesting, but monotonous. After working in my company for two years, I quit and tried myself in other areas, but I didn’t stay anywhere because it got boring. A year later, in the fall of 2021, I returned to my old job, but continued to look for interesting job options. Then I stumbled upon and delved into the profession of a front end developer.. and it got me very interested! 
+I'm 23 years old, I work as equipment repair master. My work is interesting, but monotonous. After working in my company for two years, I quit and tried myself in other areas, but I didn’t stay anywhere because it got boring. A year later, in the fall of 2021, I returned to my old job, but continued to look for interesting job options. Then I stumbled upon and start delved into the profession of a front end developer.. and it got me very interested! 
 Now my main goal is to get as much knowledge in this area as possible and become a front-end developer **:)**
 
 # Skills
