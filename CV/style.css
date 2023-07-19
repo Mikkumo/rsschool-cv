@@ -205,6 +205,6 @@ html {
     color: var(--secondary-font-color);
 }
 
-/* .project_info {
-
-} */
+.project_info {
+    font-size: 0.9rem;
+}
