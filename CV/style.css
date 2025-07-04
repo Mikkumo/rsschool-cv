@@ -14,7 +14,7 @@ html {
 .container_wrapper {
     width: 50rem;
     margin: 1rem auto;
-    font-family: "Cabin", sans-serif;
+    font-family: 'Cabin', sans-serif;
     font-size: 24px;
     line-height: 1.7;
     background-color: rgba(64, 109, 101, 0.26);
@@ -52,17 +52,17 @@ html {
 }
 
 .contacts_title,
-.edukation_title,
+.education_title,
 .courses_title,
 .languages_title {
     margin-top: 1.2rem;
     text-transform: uppercase;
-    font-weight: 700;   
+    font-weight: 700;
     color: var(--secondary-font-color);
 }
 
 .contacts_list,
-.edukation_list,
+.education_list,
 .courses_list,
 .languages_list {
     font-size: 16px;
@@ -91,20 +91,20 @@ html {
     color: var(--main-font-color);
 }
 
-.edukation_link:before,
+.education_link:before,
 .courses_link:before,
 .languages_link:before {
     padding-right: 4px;
     color: var(--main-font-color);
-    content: "\2606";
+    content: '\2606';
     transition-duration: 0.5s;
 }
 
-.edukation_link:hover:before,
+.education_link:hover:before,
 .courses_link:hover:before,
 .languages_link:hover:before {
     color: var(--main-font-color);
-    content: "\2605";
+    content: '\2605';
 }
 
 /* ////////////////////////////////////////////////////// */
@@ -115,7 +115,7 @@ html {
     display: flex;
     flex-direction: column;
     align-items: left;
-} 
+}
 
 .column_fon {
     width: 16rem;
@@ -185,7 +185,7 @@ html {
 .portfolio_link:before {
     padding-right: 4px;
     color: var(--main-font-color);
-    content: "\2606";
+    content: '\2606';
     transition-duration: 0.5s;
 }
 
@@ -193,7 +193,7 @@ html {
 .skills_link:hover:before,
 .portfolio_link:hover:before {
     color: var(--main-font-color);
-    content: "\2605";
+    content: '\2605';
 }
 
 .project_name {
@@ -205,6 +205,6 @@ html {
     color: var(--secondary-font-color);
 }
 
-/* .project_info {
-
-} */
+.project_info {
+    font-size: 0.9rem;
+}
